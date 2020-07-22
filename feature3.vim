@@ -1,5 +1,5 @@
 feature3{
 	something
-	bug
+	// bug
 	return
 }
