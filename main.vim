@@ -1,3 +1,5 @@
-main
-add 1 line
-add another line
+main{
+	call feature1
+	call feature2
+	return
+}
