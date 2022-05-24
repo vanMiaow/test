@@ -1,0 +1,2 @@
+http://nyaa.tracker.wf:7777/announce
+http://sukebei.tracker.wf:8888/announce
